@@ -2,7 +2,7 @@
 # This prevents `vendor` et. al. from being committed should someone
 # accidentally run composer operations in this directory without including
 # the `--no-update` flag.
-*
+
 
 # Explicitly allow files that are supposed to be part of the upstream
 # configuration here. If other files are added, include another line
